@@ -1,5 +1,6 @@
 # Loan calculator
-
+Loan calculater implemented in plain PHP using Alpine.js + Tailwind for frontend UI.
+Possible calculations: annuity loan, linear loan with straightforward way to add more types.
 ## Setup
 
 - Clone repository
@@ -42,7 +43,7 @@ Tests are provided for annuity only as this is just a practice exercise.
 
 - The original boilerplate I used was put together using the help of an AI tool as the optimal structure of a plain PHP project was new to me.
 
-- Functionallity, validation extending and styling was done by myself.
+- Functionality, validation extending and styling was done by myself.
 
 ## Design choice reasoning
 
