@@ -29,7 +29,7 @@ Tests are provided for annuity only as this is just a practice exercise.
 | Backend   | 3             | 2          | -1.0           |
 | Styling   | 0.5           | 1          | +0.5           |
 | Tests     | 1             | 1          | 0.0            |
-| **Total** | **6.5**        | **4**     | **1.5**        |
+| **Total** | **7.5**       | **6**     | **1.5**        |
 
 
 ## Task report
