@@ -1,0 +1,10 @@
+version: "2.2"
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/var/www/html
+    working_dir: /var/www/html

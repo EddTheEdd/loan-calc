@@ -3,8 +3,12 @@
 ## Setup
 
 - Clone repository
-- docker compose up
-- http://localhost:8000/
+- Start containers:
+  - docker compose up -d
+- Install PHP dependencies:
+  - docker compose exec app composer install
+- Open:
+  - http://localhost:8000/
 
 ## Testing
 
